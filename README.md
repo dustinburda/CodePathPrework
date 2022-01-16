@@ -22,10 +22,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- List anything else that you can get done to improve the app functionality!
+List anything else that you can get done to improve the app functionality!
 - [x] Party Size Splitter
 - [x] Dark Mode
-- [x] Settings Page
+- [x] Settings Page, with persistant information (leaving and return to settings page will have
+       the same settings)
 - [x] Custom Tip Slider
 
 ## Video Walkthrough
