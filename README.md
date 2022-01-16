@@ -15,8 +15,8 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] UI animations (Added Dark Mode)
+* [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
@@ -25,21 +25,21 @@ The following **additional** features are implemented:
 List anything else that you can get done to improve the app functionality!
 - [x] Party Size Splitter
 - [x] Dark Mode
-- [x] Settings Page, with persistant information (leaving and return to settings page will have
+- [x] Settings Page, with persistant information through UserDefaults (leaving and return to settings page will have
        the same settings)
 - [x] Custom Tip Slider
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/uIZgZwV.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+None, I had a lot of fun :)
 
 ## License
 
@@ -56,3 +56,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
